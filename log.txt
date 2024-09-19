@@ -1,0 +1,87 @@
+[2024-04-13 12:47:12]  a 
+[2024-04-13 12:47:12]  a 
+[2024-04-13 12:47:12] lled a 
+[2024-04-13 12:47:12] d a 
+[2024-04-13 12:47:12] led a 
+[2024-04-13 12:47:12] lled a 
+[2024-04-13 12:47:37] ed a 
+[2024-04-13 12:47:37] a 
+[2024-04-13 12:47:37]  
+[2024-04-13 12:47:37] ed a 
+[2024-04-13 12:47:37]  
+[2024-04-13 12:47:37] d a 
+[2024-04-13 12:47:39]  
+[2024-04-13 12:47:39] 20
+[2024-04-13 12:47:39] 
+[2024-04-13 12:47:39] lled a 
+[2024-04-13 12:47:39]  
+[2024-04-13 12:47:39] d20
+[2024-04-13 12:48:02] ed a 
+[2024-04-13 12:48:02] You hit the opponent for 8 damage!
+[2024-04-13 12:48:02] The opponent rolled a 4
+[2024-04-13 12:48:02] You have taken 4 damage!
+[2024-04-13 12:48:10] Characters coordinates-> X: 1 , Y: 0
+[2024-04-13 12:48:18] 
+[2024-04-13 12:48:18] You hit the opponent for 18 damage!
+[2024-04-13 12:48:18] You have defeated opponent at coordinates x: 2, y: 0
+[2024-04-13 12:48:18] You have leveled up to level 1
+[2024-04-13 12:48:18] Item found, BELT with STRENGTH with bonus: 3
+[2024-04-13 12:48:43] Characters coordinates-> X: 1 , Y: 1
+[2024-04-13 12:48:51] Characters coordinates-> X: 0 , Y: 1
+[2024-04-13 12:48:57] Added HELMET to backpack.
+[2024-04-13 12:48:57] Characters coordinates-> X: 0 , Y: 2
+[2024-04-13 12:49:24] Characters coordinates-> X: 0 , Y: 3
+[2024-04-13 12:49:25] Characters coordinates-> X: 1 , Y: 3
+[2024-04-13 12:49:26] Characters coordinates-> X: 2 , Y: 3
+[2024-04-13 12:50:02] 
+[2024-04-13 12:50:02] 1d20
+[2024-04-13 12:50:02]  
+[2024-04-13 12:50:02] a 
+[2024-04-13 12:50:02] led a 
+[2024-04-13 12:50:02]  a 
+[2024-04-13 12:50:13] 1d20
+[2024-04-13 12:50:13] 
+[2024-04-13 12:50:13]  a 
+[2024-04-13 12:50:13] a 
+[2024-04-13 12:50:13]  
+[2024-04-13 12:50:13] 
+[2024-04-13 12:50:16] a 
+[2024-04-13 12:50:16]  a 
+[2024-04-13 12:50:16]  a 
+[2024-04-13 12:50:16]  
+[2024-04-13 12:50:16]  
+[2024-04-13 12:50:16] a 
+[2024-04-13 12:50:20] Characters coordinates-> X: 0 , Y: 1
+[2024-04-13 12:50:21] Added ARMOR to backpack.
+[2024-04-13 12:50:21] Characters coordinates-> X: 0 , Y: 2
+[2024-04-13 12:50:22] Characters coordinates-> X: 0 , Y: 3
+[2024-04-13 12:50:22] Characters coordinates-> X: 1 , Y: 3
+[2024-04-13 12:50:23] Characters coordinates-> X: 2 , Y: 3
+[2024-04-13 12:50:40] lled a 
+[2024-04-13 12:50:40] led a 
+[2024-04-13 12:50:40]  
+[2024-04-13 12:50:40] d a 
+[2024-04-13 12:50:40] d a 
+[2024-04-13 12:50:40]  a 
+[2024-04-13 12:50:42] a 
+[2024-04-13 12:50:42] d20
+[2024-04-13 12:50:42] ed a 
+[2024-04-13 12:50:42] 
+[2024-04-13 12:50:42]  
+[2024-04-13 12:50:42] olled a 
+[2024-04-13 12:50:47] Added BOOTS to backpack.
+[2024-04-13 12:50:47] Characters coordinates-> X: 1 , Y: 0
+[2024-04-13 12:50:55] Characters coordinates-> X: 1 , Y: 1
+[2024-04-13 12:51:09] d a 
+[2024-04-13 12:51:09] You hit the opponent for 9 damage!
+[2024-04-13 12:51:09] The opponent rolled a 9
+[2024-04-13 12:51:09] You have taken 9 damage!
+[2024-04-13 12:51:14] Characters coordinates-> X: 1 , Y: 0
+[2024-04-13 12:51:28] Characters coordinates-> X: 0 , Y: 0
+[2024-04-13 12:51:29] Characters coordinates-> X: 0 , Y: 1
+[2024-04-13 12:51:30] Characters coordinates-> X: 0 , Y: 2
+[2024-04-13 12:51:30] Added SHIELD to backpack.
+[2024-04-13 12:51:30] Characters coordinates-> X: 0 , Y: 3
+[2024-04-13 12:51:33] Characters coordinates-> X: 0 , Y: 4
+[2024-04-13 12:51:33] Characters coordinates-> X: 0 , Y: 5
+[2024-04-13 12:51:34] Characters coordinates-> X: 1 , Y: 5
